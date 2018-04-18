@@ -1,5 +1,5 @@
 h1{
-  color: #E20000;
+  color: ##00BBA4;
   text-align: center;
   font-weight: bold;
   font-family: sans-serif;
@@ -12,9 +12,8 @@ h2{
 
 p{
   font-family: serif;
-  color: inherit;
 }
 
 body{
-  background-color: ##000000
+  background-color: #41726C;
 }
