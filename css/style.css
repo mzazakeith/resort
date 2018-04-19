@@ -15,5 +15,13 @@ p{
 }
 
 body{
-  background-color: #41726C;
+  background-color:#41726C;
+}
+li{
+  float: left;
+  font-size: 20px;
+  padding: 5px;
+  list-style: none;
+  text-decoration: none;
+  color: rgb(75, 20, 0);
 }
